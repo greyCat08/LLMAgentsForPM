@@ -1,0 +1,81 @@
+review,category,sentiment,severity,summary,raw_ai_response
+"Calm has great stories, meditations and more. I love it and have the full version ... Please add more voices like Eduardo Ballerini, Ramon Tikaram, Chiké Okonkwo.",Other,Neutral,3,"```json
+{
+  ""category"": ""Feature Request"",
+  ""sentiment"": ""Positive"",
+  ""severity"": 1,
+  ""summary"": ""A satisfied user requests additional narrator voices, specifically Eduardo Ballerini, Ramon Tikaram, and Chiké Okonkwo, to enhance their experience with the app's content.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Feature Request\"",\n  \""sentiment\"": \""Positive\"",\n  \""severity\"": 1,\n  \""summary\"": \""A satisfied user requests additional narrator voices, specifically Eduardo Ballerini, Ramon Tikaram, and Chik\u00e9 Okonkwo, to enhance their experience with the app's content.\""\n}\n```""}"
+The Calm app was disappointing at best. The app is clunky and they are forever asking you to recommend the app to a friend (not very calming).,Other,Neutral,3,"```json
+{
+  ""category"": ""Usability"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 3,
+  ""summary"": ""User finds the app clunky and intrusive due to frequent prompts to recommend it, detracting from the calming experience.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Usability\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 3,\n  \""summary\"": \""User finds the app clunky and intrusive due to frequent prompts to recommend it, detracting from the calming experience.\""\n}\n```""}"
+Signed up for a free trial ... cancelled subscription ... Apple was able to see where I was on for a,Other,Neutral,3,"```json
+{
+  ""category"": ""Subscription/Price"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 3,
+  ""summary"": ""User encountered issues with subscription cancellation during a free trial, requiring Apple's intervention. This indicates potential confusion or flaws in the subscription management process.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Subscription/Price\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 3,\n  \""summary\"": \""User encountered issues with subscription cancellation during a free trial, requiring Apple's intervention. This indicates potential confusion or flaws in the subscription management process.\""\n}\n```""}"
+I would give this thieving company zero stars ... it never worked and kept asking me to pay for a subscription.,Other,Neutral,3,"```json
+{
+  ""category"": ""Subscription/Price"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 5,
+  ""summary"": ""User expresses extreme dissatisfaction with the app's functionality and subscription model, claiming it never worked and persistently demanded payment.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Subscription/Price\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 5,\n  \""summary\"": \""User expresses extreme dissatisfaction with the app's functionality and subscription model, claiming it never worked and persistently demanded payment.\""\n}\n```""}"
+I didn’t accept the trial but 3 months later I had a $48.99 charge ... Calm didn’t help.,Other,Neutral,3,"```json
+{
+  ""category"": ""Subscription/Price"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 5,
+  ""summary"": ""User was unexpectedly charged $48.99 for a subscription they did not accept, indicating a critical issue with the subscription management system that requires immediate attention.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Subscription/Price\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 5,\n  \""summary\"": \""User was unexpectedly charged $48.99 for a subscription they did not accept, indicating a critical issue with the subscription management system that requires immediate attention.\""\n}\n```""}"
+Content is fine but admin processes show that it is clearly a rip‑off ... no simple way to cancel,Other,Neutral,3,"```json
+{
+  ""category"": ""Subscription/Price"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 5,
+  ""summary"": ""User expresses frustration with the app's subscription management, specifically the difficulty in canceling, which they perceive as a rip-off. This critical issue requires immediate attention to prevent further user dissatisfaction and potential churn.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Subscription/Price\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 5,\n  \""summary\"": \""User expresses frustration with the app's subscription management, specifically the difficulty in canceling, which they perceive as a rip-off. This critical issue requires immediate attention to prevent further user dissatisfaction and potential churn.\""\n}\n```""}"
+Good content ... but app navigation is difficult and interface changes too often.,Other,Neutral,3,"```json
+{
+  ""category"": ""Usability"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 3,
+  ""summary"": ""User finds the app's navigation difficult and is frustrated by frequent interface changes, impacting their overall experience despite appreciating the content.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Usability\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 3,\n  \""summary\"": \""User finds the app's navigation difficult and is frustrated by frequent interface changes, impacting their overall experience despite appreciating the content.\""\n}\n```""}"
+Cancelled trial in August and they charged my card in November — horrible business practice.,Other,Neutral,3,"```json
+{
+  ""category"": ""Subscription/Price"",
+  ""sentiment"": ""Negative"",
+  ""severity"": 5,
+  ""summary"": ""User was incorrectly charged for a subscription after canceling the trial, indicating a critical issue with billing practices that requires immediate attention.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Subscription/Price\"",\n  \""sentiment\"": \""Negative\"",\n  \""severity\"": 5,\n  \""summary\"": \""User was incorrectly charged for a subscription after canceling the trial, indicating a critical issue with billing practices that requires immediate attention.\""\n}\n```""}"
+"Love Calm, slept better since listening to the sleep stories.",Other,Neutral,3,"```json
+{
+  ""category"": ""Praise"",
+  ""sentiment"": ""Positive"",
+  ""severity"": 1,
+  ""summary"": ""User expresses strong satisfaction with Calm's sleep stories, crediting them with improved sleep quality.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Praise\"",\n  \""sentiment\"": \""Positive\"",\n  \""severity\"": 1,\n  \""summary\"": \""User expresses strong satisfaction with Calm's sleep stories, crediting them with improved sleep quality.\""\n}\n```""}"
+I love the background sound even without subscription — truly calmed me lol,Other,Neutral,3,"```json
+{
+  ""category"": ""Praise"",
+  ""sentiment"": ""Positive"",
+  ""severity"": 1,
+  ""summary"": ""User praises the background sound feature, highlighting its calming effect even without a subscription.""
+}
+```","{""category"": ""Other"", ""sentiment"": ""Neutral"", ""severity"": 3, ""summary"": ""```json\n{\n  \""category\"": \""Praise\"",\n  \""sentiment\"": \""Positive\"",\n  \""severity\"": 1,\n  \""summary\"": \""User praises the background sound feature, highlighting its calming effect even without a subscription.\""\n}\n```""}"
