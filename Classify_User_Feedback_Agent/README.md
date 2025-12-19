@@ -1,0 +1,1 @@
+An AI-powered product feedback classifier that analyzes app reviews using Cohere’s Command-A to generate categories, sentiment, severity, and PM-ready summaries, then exports everything into a structured CSV.
